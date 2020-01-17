@@ -1,4 +1,4 @@
-**NOTE:** This repository is atchived because the application is not actively maintained. However, you can still obtain
+**NOTE:** This repository is archived because the application is not actively maintained. However, you can still obtain
 the "official" OTTO build of the latest version (as of this fork) from here.<br />
 Please consider using an actively maintained alternative like [awsume](https://awsu.me/) (used by SI and others) or [AWS Vault](https://github.com/99designs/aws-vault) (used by DeepSea) instead.
 
